@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-tnottu",
+  "name": "eslint-config-tyomaa",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://tnottu@github.com/tnottu/eslint-config-tnottu.git"
+    "url": "git+https://github.com/tyomaa/eslint-config-tyomaa.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tnottu/eslint-config-tnottu/issues"
+    "url": "https://github.com/tyomaa/eslint-config-tyomaa/issues"
   },
-  "homepage": "https://github.com/tnottu/eslint-config-tnottu#readme",
+  "homepage": "https://github.com/tyomaa/eslint-config-tyomaa#readme",
   "dependencies": {
     "eslint": "^3.5.0",
     "eslint-config-airbnb-base": "^7.1.0",
