@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tyomaa/eslint-config-tyomaa.git"
+    "url": "git+https://github.com/tyomaaoy/eslint-config-tyomaa.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tyomaa/eslint-config-tyomaa/issues"
+    "url": "https://github.com/tyomaaoy/eslint-config-tyomaa/issues"
   },
-  "homepage": "https://github.com/tyomaa/eslint-config-tyomaa#readme",
+  "homepage": "https://github.com/tyomaaoy/eslint-config-tyomaa#readme",
   "dependencies": {
     "eslint": "^3.5.0",
     "eslint-config-airbnb-base": "^7.1.0",
